@@ -1,0 +1,28 @@
+body
+{
+    color: white;
+    background: rgb(212, 235, 7);
+
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+
+}
+
+.name_of_members, #result_object_name, #result_object_accuracy
+{
+    color: purple;
+
+}
+
+#Camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+
+
+}
